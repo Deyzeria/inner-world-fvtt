@@ -9,7 +9,7 @@ function LoadLanguagesInnerWorld() {
   lang['standard'] = {
     label: "Обычные",
     children: {
-      common: {
+      usual: {
         label: "Распространенные",
         children: {
           kazrud: "Казруд",
