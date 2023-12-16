@@ -1,0 +1,28 @@
+{
+    "id": "inner-world-fvtt",
+    "title": "Inner World",
+    "version": "1.0.0",
+    "compatibility": {
+      "minimum": "11",
+      "verified": "11"
+    },
+    "relationships": {
+      "systems": [
+        {
+          "id": "dnd5e",
+          "type": "system",
+          "compatibility": {}
+        }
+      ]
+    }, 
+    "authors": [
+      {
+        "name": "Sinantrarion",
+        "discord": "sinantrarion",
+        "flags": {}
+      }
+    ],
+    "esmodules": [
+      "/inner-world.mjs"
+    ]
+  }
