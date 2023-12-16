@@ -3,26 +3,29 @@
     "title": "Inner World",
     "version": "1.0.0",
     "compatibility": {
-      "minimum": "11",
-      "verified": "11"
+        "minimum": "11",
+        "verified": "11"
     },
     "relationships": {
-      "systems": [
-        {
-          "id": "dnd5e",
-          "type": "system",
-          "compatibility": {}
-        }
-      ]
-    }, 
+        "systems": [
+            {
+                "id": "dnd5e",
+                "type": "system",
+                "compatibility": {}
+            }
+        ]
+    },
     "authors": [
-      {
-        "name": "Sinantrarion",
-        "discord": "sinantrarion",
-        "flags": {}
-      }
+        {
+            "name": "Sinantrarion",
+            "discord": "sinantrarion",
+            "flags": {}
+        }
     ],
     "esmodules": [
-      "/inner-world.mjs"
-    ]
-  }
+        "/inner-world.mjs"
+    ],
+    "manifest": "https://raw.githubusercontent.com/Sinantrarion/inner-world-fvtt/master/module.json",
+    "url": "https://github.com/Sinantrarion/inner-world-fvtt",
+    "download": "https://github.com/Sinantrarion/inner-world-fvtt/archive/refs/heads/main.zip"
+}

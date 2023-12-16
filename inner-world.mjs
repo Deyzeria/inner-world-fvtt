@@ -72,7 +72,7 @@ function LoadLanguagesInnerWorld() {
 
       emeraldland: {
         label: "Языки Изумрудной Земли",
-        children:{
+        children: {
           whiteelven: "Белоэльфийский",
           coastelven: "Брегоэльфийский"
         }
